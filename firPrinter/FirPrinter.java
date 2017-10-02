@@ -6,7 +6,7 @@ package firPrinter;
  * Es lohnt sich immer, die Vorlesungsinhalte zu kennen ;-)
  * 
  * Auch ist diese Art von Kommentar KEIN guter Kommentar.
- * Wir nutzen den Kommentar hier fuer Erklaerungen und Ausfuehrungen zur
+ * Wir nutzen den Kommentar "hier" fuer Erklaerungen und Ausfuehrungen zur
  * Aufgabenstellung. Es  gilt "hier" die Regel:
  *  o) "Kommentar" der Kommentar ist in englisch.
  *  o) "Kommentar" der die Aufgabenstellung vertieft in deutsch.
