@@ -17,8 +17,8 @@ package firPrinter;
 /**
  * Your alternative TestFrame for Fir Printer
  * 
- * @author   ... 
- * @version  ...
+ * @author   (your name(s)) 
+ * @version  (a version number or a date)
  */
 public class ProposalForAlternativeTestFrame {
     

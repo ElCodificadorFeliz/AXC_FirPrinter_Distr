@@ -20,8 +20,8 @@ package firPrinter;
 /**
  * Fir Printer - see task
  * 
- * @author  (your name(s)) 
- * @version (a version number or a date)
+ * @author   (your name(s)) 
+ * @version  (a version number or a date)
  */
 public class FirPrinter {
     
