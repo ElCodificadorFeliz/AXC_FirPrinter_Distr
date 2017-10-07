@@ -39,6 +39,21 @@ public class FirPrinter {
      */
     public void printFir( int height ){
         //vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+        //###
+        //###
+        //###
+        //###           HIER kommt Ihr Code hin
+        //###
+        //###                    VVVV
+        //###                    VVVV
+        //###                    VVVV
+        //###   VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+        //###      VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+        //###         VVVVVVVVVVVVVVVVVVVVVVVVVV
+        //###            VVVVVVVVVVVVVVVVVVVV
+        //###               VVVVVVVVVVVVVV
+        //###                  VVVVVVVV
+        //###                     VV
         
         
         // Fuegen Sie hier Ihren Code ein
