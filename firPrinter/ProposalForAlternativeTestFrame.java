@@ -17,11 +17,16 @@ package firPrinter;
 /**
  * Your alternative TestFrame for Fir Printer
  * 
- * @author   (your name(s)) 
+ * @author   (your name(s))  based on template from Michael Schaefers
  * @version  (a version number or a date)
  */
 public class ProposalForAlternativeTestFrame {
     
+    /**
+     * method to start test
+     * 
+     * @param unused  is unused ;-)
+     */
     public static void main( final String... unused ){
         try{
             final FirPrinter fp = new FirPrinter();
