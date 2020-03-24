@@ -34,7 +34,7 @@ public class ProposalForAlternativeTestFrame {
             
             
             //VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
-            // Sofern Sie kein Vorwissen und/oder NICHT wissen was Sie tun
+            // Sofern Sie kein Vorwissen haben und/oder NICHT wissen was Sie tun
             // fuehren Sie (bis auf die Aenderung des Klassennamens)
             // KEINE Aenderungen oberhalb dieser Zeilen durch
             //###
@@ -66,7 +66,7 @@ public class ProposalForAlternativeTestFrame {
             
             
             //^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-            // Sofern Sie kein Vorwissen und/oder NICHT wissen was Sie tun
+            // Sofern Sie kein Vorwissen haben und/oder NICHT wissen was Sie tun
             // fuehren Sie KEINE Aenderungen unterhalb dieser Zeilen durch.
             //^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
             //
