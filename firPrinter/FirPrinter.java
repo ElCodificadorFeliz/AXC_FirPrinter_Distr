@@ -1,7 +1,7 @@
 package firPrinter;
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Wir erinnern uns: NIEMALS verschiedene Spachen in einem Programm mixen.
- * Oder konkreter: Entweder Identifier und Kommentar in deutsch oder in englisch.
+ * Oder konkreter: Entweder Code, Variablen und Kommentar in deutsch oder in englisch.
  * Es gelten die in der Vorlesung besprochenen Regeln.
  * Es lohnt sich immer, die Vorlesungsinhalte zu kennen ;-)
  * 
